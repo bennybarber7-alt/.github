@@ -9,7 +9,7 @@ and hands-on conservation work — and increasingly, the data and coding skills
 that let marine scientists turn observations into evidence.
 
 I'm hoping to begin an internship with SEA LIFE Kelly Tarlton's in Auckland this
-September, and my goal from there is to move into a permanent role with them —
+September, and my goal from there is to move into a permanent role with them,
 bringing together practical animal care experience with the technical skills
 I've been developing through this coursework.
 
