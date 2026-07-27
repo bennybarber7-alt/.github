@@ -1,4 +1,4 @@
-#.github
+.github
 # Hi, I'm Ben 👋
 
 ## About Me
