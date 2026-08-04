@@ -22,8 +22,8 @@ sensing, spatial mapping, and genomic analysis of coral disease.
 | Repo                                                                                             | Description                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Module-1-Programming-in-R](https://github.com/bennybarber7-alt/Module-1-Programming-in-R)       | Foundational programming exercises in R, including control flow, functions, and data structures                                             |
-| [R4MarineScience](https://github.com/bennybarber7-alt/Module-2-R4MarineScience)                           | R-based data wrangling, statistical analysis, and visualisation for marine ecological data                                                  |
-| [marine-genomics](https://github.com/bennybarber7-alt/Module-3-marine-genomics)                           | Metagenome assembly and taxonomic analysis of black band disease samples using Flye, CheckM, GTDB-Tk, and Prokka                            |
+| [Module-2-R4MarineScience](https://github.com/bennybarber7-alt/Module-2-R4MarineScience)                           | R-based data wrangling, statistical analysis, and visualisation for marine ecological data                                                  |
+| [Module-3-Marine-Genomics](https://github.com/bennybarber7-alt/Module-3-marine-genomics)                           | Metagenome assembly and taxonomic analysis of black band disease samples using Flye, CheckM, GTDB-Tk, and Prokka                            |
 | [Module-4-Google-Earth-Engine](https://github.com/bennybarber7-alt/Module-4-Google-Earth-Engine) | Remote sensing and spatial analysis in Google Earth Engine, including raster processing and the mapping of marine and deep-ocean ecosystems |
 
 ## 🛠️ Skills and Software
