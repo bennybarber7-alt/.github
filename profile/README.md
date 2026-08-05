@@ -30,9 +30,8 @@ sensing, spatial mapping, and genomic analysis of coral disease.
 
 * **R and RStudio** — programming, data wrangling, analysis, and visualisation
 * **Quarto** — creating reproducible reports and web-based coursework
-* **Google Earth Engine** — cloud-based geospatial analysis and environmental mapping
+* **Google Earth Engine** — cloud-based geospatial analysis and visualising environmental datasets
 * **JavaScript** — scripting spatial workflows within Google Earth Engine
-* **GIS and raster analysis** — classifying, masking, and visualising environmental datasets
 * **Marine genomics** — genome assembly, annotation, quality assessment, and taxonomy
 * **Git and GitHub** — version control, repository management, and project documentation
 
