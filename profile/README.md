@@ -38,5 +38,5 @@ sensing, spatial mapping, and genomic analysis of coral disease.
 
 ## 🔗 Find Me Elsewhere
 
-* 📄 **ePortfolio:** [link]
+* 📄 **ePortfolio:** [MB5370 ePortfolio](https://sites.google.com/view/ben-barber/home)
 * 💼 **LinkedIn:** [Ben Barber](https://www.linkedin.com/in/ben-barber-982338348/)
